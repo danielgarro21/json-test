@@ -39,7 +39,7 @@
       "first_name": "Kobe",
       "last_name": "Gads",
       "email": "kobe@alasmgt.com",
-      "gender":  "Male" },
+      "gender":  "Male" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
