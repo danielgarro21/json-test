@@ -5,13 +5,13 @@
       "last_name": "MacIan",
       "email": "vmacian0@1688.com",
       "gender": "Female" 
-      "tel_number": 8937223},
+      "tel_number": "8937223"},
     { "id": 2,
       "first_name": "Matthias",
       "last_name": "Pennock",
       "email": "mpennock1@jalbum.net",
       "gender": "Male" 
-      "tel_number": 8937223},
+      "tel_number": "8937223"},
     {"id": 3,
       "first_name": "Ivy",
       "last_name": "Shildrick",
@@ -23,13 +23,13 @@
       "last_name": "Garro",
       "email": "d.garro@alasmgt.com",
       "gender":  "Male" 
-      "tel_number": 8937223},
+      "tel_number": "8937223"},
     {"id": 5,
       "first_name": "Tobby",
       "last_name": "Jhonson",
       "email": "tobby@alasmgt.com",
       "gender":  "Male" 
-       "tel_number": 8937223},
+       "tel_number": "8937223"},
     {"id": 6,
       "first_name": "Daniel",
       "last_name": "Koen",
